@@ -14,8 +14,10 @@ public class Calculadora {
     int s= A+B; 
     int r=A-B;
     int m=A*B;
+    int d=A/B;
         System.out.println(s);
         System.out.println(r);
         System.out.println(m);
+        System.out.println(d);
     }
 }
