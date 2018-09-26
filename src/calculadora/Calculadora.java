@@ -13,10 +13,9 @@ public class Calculadora {
         int B = in.nextInt(2);
     int s= A+B; 
     int r=A-B;
+    int m=A*B;
         System.out.println(s);
         System.out.println(r);
+        System.out.println(m);
     }
-    private int suma(){}
-    private int resta(){}
-    
 }
