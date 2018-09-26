@@ -10,7 +10,7 @@ public class Calculadora {
         int A = in.nextInt();        
         System.out.print("Diguem un altre valor: ");
         int B = in.nextInt();
-        
+        System.out.println(A+B);
+        int C;
     }
-    
 }
