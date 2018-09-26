@@ -11,6 +11,9 @@ public class Calculadora {
         System.out.print("Diguem un altre valor: ");
         int B = in.nextInt();
         System.out.println(A+B);
-        int C;
+        System.out.println(A-B);
     }
+    private int suma(){}
+    private int resta(){}
+    
 }
